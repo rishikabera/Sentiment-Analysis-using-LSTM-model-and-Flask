@@ -19,7 +19,9 @@ the overall sentiment of the text(positve, negative or neutral).
   -> Extract the word and emotion using split.
  (ii) If the word is present-> Add emotion to the emotion list.
  (iii) Finally count each emotion in the emotion list.
-4. Count the frequency of the emotion to determine the dominant emotion.
+4. Count the frequency of the emotion to determine the dominant emotion using Counter.
+5. Plotting the emotions on a graph using Matplotlib.
+
 
 
 
